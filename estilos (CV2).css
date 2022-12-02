@@ -1,0 +1,38 @@
+h1 { background-color: antiquewhite;
+    text-align: center;
+    font-family:  'EB Garamond', serif;
+    
+}
+
+.parrafo {
+    background-color:rgb(248, 201, 201);
+    padding-left: 5%;
+    text-align:left;
+    border-style:outset;
+    padding-bottom: 1%;
+    width: 630px;
+    height: 630px;
+    position: absolute; left: 550px;
+    
+    
+    
+   }
+
+.imagen{
+        float: left;
+        margin-left: 5%; 
+        border-style:outset;
+      
+        
+} 
+
+h4 {
+        clear: both;
+       }
+input#boton{
+    background-color:rgb(202, 170, 170);
+    border-color:azure;
+    font-size:medium;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    border-style: outset;
+}
